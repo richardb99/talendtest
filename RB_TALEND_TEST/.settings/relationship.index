@@ -1,0 +1,12 @@
+[ {
+  "baseItem" : {
+    "id" : "_TWR_MMQ0Ee-XmKpcfc-fWw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_4UW_EMQ1Ee-XmKpcfc-fWw - prices",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

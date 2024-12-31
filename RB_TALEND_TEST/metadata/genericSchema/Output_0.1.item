@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_xbUG0sQ5Ee-XmKpcfc-fWw" dataPackage="_xbUG08Q5Ee-XmKpcfc-fWw"/>
+  <TalendMetadata:GenericPackage xmi:id="_xbUG08Q5Ee-XmKpcfc-fWw" dataManager="_xbUG0sQ5Ee-XmKpcfc-fWw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_xbUG1MQ5Ee-XmKpcfc-fWw" id="_xbUG0MQ5Ee-XmKpcfc-fWw" label="outputPrices">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG1cQ5Ee-XmKpcfc-fWw" name="Date" label="Date" length="-1" talendType="id_String" pattern="&quot;yyyy-MM-dd HH:mm:ss&quot;">
+        <initialValue xmi:id="_xbUG1sQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG18Q5Ee-XmKpcfc-fWw" name="Open" label="Open" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG2MQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG2cQ5Ee-XmKpcfc-fWw" name="High" label="High" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG2sQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG28Q5Ee-XmKpcfc-fWw" name="Low" label="Low" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG3MQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG3cQ5Ee-XmKpcfc-fWw" name="Close" label="Close" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG3sQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG38Q5Ee-XmKpcfc-fWw" name="Volume" label="Volume" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG4MQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG4cQ5Ee-XmKpcfc-fWw" name="Dividends" label="Dividends" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG4sQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xbUG48Q5Ee-XmKpcfc-fWw" name="StockSplits" label="StockSplits" length="-1" talendType="id_Double">
+        <initialValue xmi:id="_xbUG5MQ5Ee-XmKpcfc-fWw"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

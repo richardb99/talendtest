@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_4UZbUMQ1Ee-XmKpcfc-fWw" name="repository.metadataGenericSchema" dataPackage="_4UZbUcQ1Ee-XmKpcfc-fWw"/>
+  <TalendMetadata:GenericPackage xmi:id="_4UZbUcQ1Ee-XmKpcfc-fWw" name="repository.metadataGenericSchema" dataManager="_4UZbUMQ1Ee-XmKpcfc-fWw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_4UZbUsQ1Ee-XmKpcfc-fWw" id="_gj9sAMQ1Ee-XmKpcfc-fWw" label="prices">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbU8Q1Ee-XmKpcfc-fWw" name="Date" label="Date" length="-1" talendType="id_String" pattern="&quot;yyyy-MM-dd HH:mm:ss&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbVMQ1Ee-XmKpcfc-fWw" name="Open" label="Open" length="-1" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbVcQ1Ee-XmKpcfc-fWw" name="High" label="High" length="-1" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbVsQ1Ee-XmKpcfc-fWw" name="Low" label="Low" length="-1" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbV8Q1Ee-XmKpcfc-fWw" name="Close" label="Close" length="-1" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbWMQ1Ee-XmKpcfc-fWw" name="Volume" label="Volume" length="-1" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbWcQ1Ee-XmKpcfc-fWw" name="Dividends" label="Dividends" length="-1" talendType="id_Double"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_4UZbWsQ1Ee-XmKpcfc-fWw" name="StockSplits" label="StockSplits" length="-1" talendType="id_Double"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
